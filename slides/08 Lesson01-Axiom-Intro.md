@@ -7,33 +7,22 @@ To be precise in the definition of a **Vector Space**, we *must* specify a preci
 
 These rules are called **axioms**.
 
-An example
+An example could be Peano's axioms, which are a set of axioms that define 
+the properties of the natural numbers.
+
 ### Peano axioms
 
-The natural numbers $\mathbb{N}$ are characterized by:
+The **set** of natural numbers $\mathbb{N}$ are characterized by:
 
-1. **Zero**
+1. **Existence of Zero**:   $0 \in \mathbb{N}$
 
-   $0 \in \mathbb{N}$
+2. **Existence of Successor**: There exists a function $S : \mathbb{N} \rightarrow \mathbb{N}$ called the successor function..
 
-2. **Successor**
+3. **Zero has no predecessor**: $\forall n \in \mathbb{N},\quad S(n) \neq 0$
 
-   There exists a function
-   $$S : \mathbb{N} \rightarrow \mathbb{N}$$
-   called the successor function.
+4. **The successor function is injective**:  $\forall n,m \in \mathbb{N},\quad  S(n)=S(m) \Rightarrow n=m$
 
-3. **Zero has no predecessor**
-
-   $$\forall n \in \mathbb{N},\quad S(n) \neq 0$$
-
-4. **The successor function is injective**
-
-   $$\forall n,m \in \mathbb{N},\quad
-   S(n)=S(m) \Rightarrow n=m$$
-
-5. **Principle of induction**
-
-   For every subset $A \subseteq \mathbb{N}$,
+5. **Principle of induction**: For every subset $A \subseteq \mathbb{N}$,
    $$0\in A \quad\land\quad
    \forall n\in\mathbb{N},\,
    (n\in A \Rightarrow S(n)\in A)

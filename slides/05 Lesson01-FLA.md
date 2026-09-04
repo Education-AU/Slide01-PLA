@@ -1,5 +1,5 @@
 ---
-title: Primary literature
+title: Additional literature
 template: literature
 literatureTitle: FUNDAMENTALS OF LINEAR ALGEBRA
 literatureAuthor: James B. Carrel
