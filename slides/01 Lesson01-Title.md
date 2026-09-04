@@ -1,4 +1,4 @@
 ---
-title: Applied Linear Algebra First push
+title: Applied Linear Algebra
 template: title
 ---
