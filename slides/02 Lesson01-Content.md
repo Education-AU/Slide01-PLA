@@ -3,9 +3,9 @@ title: Content
 template: content
 ---
 
-1. Primary literature
+1. Primary Literature
 2. Overview of the course
-3. More fundamental literature reference
+3. More fundamental Literature reference
 4. Learning outcomes
 5. Lesson overview
 6. Vector spaces
