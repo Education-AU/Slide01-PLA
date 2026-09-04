@@ -4,7 +4,7 @@ template: default
 ---
 
 ### Style of lesson
-We begin with a rigorous mathematical framework to present the basic concepts of linear algebra in full generality, 
+We begin with a rigorous mathematical presentation to be precise in our definitions of the basic concepts of linear algebra, 
 before quickly specializing to the case most relevant for this course.
 
 ### Reasoning

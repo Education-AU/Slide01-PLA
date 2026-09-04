@@ -21,5 +21,5 @@ Notice this immediately implies $\mathbf{0}\in U,\quad -\mathbf{u} \in U$
 
 The reason that this concept is interesting is that a subspace is a vector space in its own right.
 
-And also the total space can sort of be considered as a "sum" such subspaces (we'll come back to this)
+And also the total space can sort of be considered as a "sum" of such subspaces (we'll come back to this)
 

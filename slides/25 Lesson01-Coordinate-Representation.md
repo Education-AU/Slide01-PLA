@@ -5,13 +5,13 @@ template: default
 
 Is this representation unique??
 
-Let $v\in \mathbb{R}^2$
+Let $\textbf{v}\in \mathbb{R}^2$
 
-And assume that $v$ has two different representations
+And assume that $\textbf{v}$ has two different representations
 $$
 \begin{aligned}
-v=c_1\mathbf{b}_1+c_2\mathbf{b}_2\\
-v=d_1\mathbf{b}_1+d_2\mathbf{b}_2
+\textbf{v}=c_1\mathbf{b}_1+c_2\mathbf{b}_2\\
+\textbf{v}=d_1\mathbf{b}_1+d_2\mathbf{b}_2
 \end{aligned}
 $$
 
@@ -32,7 +32,7 @@ $$
 Then
 
 $$
-c1=d1,\quad c_2=d_2
+c_1=d_1,\quad c_2=d_2
 $$
 
-that is the representation is unique! Let us check
+that is the representation is unique! Let us check this for the two vectors $\mathbf{b}_1=\mathbf{(1,0)}, \quad \mathbf{b}_2=\mathbf{(0,1)}$.

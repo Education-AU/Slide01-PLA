@@ -3,7 +3,7 @@ title: Calculations in Coordinates
 template: default
 ---
 
-If a basis exists for say $\mathbb{R}^2$ then our vector space calculations
+If a basis is chosen for say $\mathbb{R}^2$ then our vector space calculations
 can be performed on the coordinates of this basis.
 
 Let a particular basis be denoted $\mathbf{b}_1$, $\mathbf{b}_2$
