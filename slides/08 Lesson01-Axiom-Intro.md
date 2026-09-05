@@ -5,9 +5,12 @@ template: default
 
 To be precise in the definition of a **Vector Space**, we *must* specify a precise set of **rules** that this space and its elements satisfy. 
 
-These rules are called **axioms**.
+These rules are called **axioms**. Without these axioms, it becomes difficult to 
+infer anything with certainty. 
+Axioms also make it easier to recognize when another structure satisfies 
+the same axioms and therefore has all the properties that can be inferred from them.
 
-An example could be Peano's axioms, which are a set of axioms that define 
+An example could be Peano's axioms, which are a set of axioms that declare 
 the properties of the natural numbers.
 
 ### Peano axioms
