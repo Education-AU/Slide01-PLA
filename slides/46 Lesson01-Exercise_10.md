@@ -18,6 +18,5 @@ U=\{ (x,y,z)| x+y-z=0 \}
 $$
 
 Try to make a visualization of this subspace, which geometrical object is this subspace
-
 </div>
 
