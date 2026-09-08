@@ -7,7 +7,7 @@ template: default
 
 Consider the vector space $\mathbb{R}^2$ and consider the basis vectors
 $$
-\mathbf{b}_1= (7,3), \quad \mathbf{b}_1= (-1,4)
+\mathbf{b}_1= (7,3), \quad \mathbf{b}_2= (-1,4)
 $$
 
 Determine the coordinates for vectors $(1,1)$ and $(1,2)$ in this basis
